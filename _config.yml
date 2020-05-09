@@ -28,14 +28,14 @@ projects:
     projects:
     # - repo-name
 
- social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: sharan_cj
   # keybase: your_username
-   linkedin: https://www.linkedin.com/in/sharan-cj/
+  linkedin: sharan-cj
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -51,22 +51,22 @@ topics:
     web_url: https://github.com/topics/html
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
 
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-  
   - name: React
     web_url: https://github.com/topics/react
     image_url : https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
 
-  - name: JavaScript
-    web_url:  https://github.com/topics/javascript
-    image_url:  https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+  - name: Sass
+    web_url: https://github.com/topics/sass
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
   - name: Git
     web_url: https://github.com/topics/git
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png
 
-    - name: Firebase
+  - name: Firebase
     web_url: https://github.com/topics/firebase
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png
+
+  - name: Linux
+    web_url: https://github.com/topics/linux
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
